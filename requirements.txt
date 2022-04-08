@@ -1,0 +1,9 @@
+streamlit
+plotly.express
+fbprophet
+scikit-learn
+matplotlib
+pandas
+numpy
+datetime
+Pystan==2.19.1.1
