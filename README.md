@@ -2,6 +2,14 @@
  Earthquake Time Series Forecasting using Facebook Prophet, LSTM, and Regression of Lag Values.
  
  ![Alt text](/Images/WebApp.png?raw=true "Web Application")
+ 
+ ## Aim
+     The project aims to build a web application to analyse and forecast the magnitude and depth of future earthquake events using Time Series Forecasting. 
+     The prototype includes algorithms such as Facebook Prophet, Regression and Long Short term Memory Network for making forecasts, and Streamlit framework to 
+     design the user interface. 
+     The mean square error (MSE) is used to estimate the accuracy of each model.
+![image](https://user-images.githubusercontent.com/32237878/163139329-b13ac0e8-62ec-4f95-83a9-47e681938eb7.png)
+
 
 ## Code Files
 
