@@ -4,8 +4,10 @@
  ![Alt text](/Images/WebApp.png?raw=true "Web Application")
  
  ## Aim
-     The project aims to build a web application to analyse and forecast the magnitude and depth of future earthquake events using Time Series Forecasting. 
-     The prototype includes algorithms such as Facebook Prophet, Regression and Long Short term Memory Network for making forecasts, and Streamlit framework to 
+     The project aims to build a web application to analyse and forecast the magnitude
+     and depth of future earthquake events using Time Series Forecasting. 
+     The prototype includes algorithms such as Facebook Prophet, Regression,
+     and Long Short term Memory Network for making forecasts, and Streamlit framework to 
      design the user interface. 
      The mean square error (MSE) is used to estimate the accuracy of each model.
 
